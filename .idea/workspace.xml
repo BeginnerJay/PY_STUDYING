@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="981c582c-cf9e-45cd-bc76-794fad1f4bbc" name="Changes" comment="">
+    <list default="true" id="981c582c-cf9e-45cd-bc76-794fad1f4bbc" name="Changes" comment="Changes">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -11,6 +11,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/semester/pythagoras.py" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="1yd0LZ4Sl2rJdbREKzuuudYR7Hr" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -25,7 +28,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -41,8 +44,17 @@
       <workItem from="1633851921185" duration="1852000" />
       <workItem from="1635251647746" duration="39000" />
       <workItem from="1636350499769" duration="47000" />
-      <workItem from="1636350554919" duration="215000" />
+      <workItem from="1636350554919" duration="452000" />
+      <workItem from="1636351031513" duration="14000" />
     </task>
+    <task id="LOCAL-00001" summary="Changes">
+      <created>1636350951653</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1636350951653</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -59,5 +71,9 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changes" />
   </component>
 </project>
